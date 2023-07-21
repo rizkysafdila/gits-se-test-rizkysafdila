@@ -23,7 +23,7 @@ function isBalancedBracket($input) {
 function checkBracketBalance() {
   $userInput = readline("Enter brackets: ");
   $result = isBalancedBracket($userInput);
-  echo "Bracket Balance: " . $result;
+  echo "Bracket Balance: " . $result . PHP_EOL;
 }
 
 checkBracketBalance();
