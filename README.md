@@ -9,6 +9,6 @@
 - Some files for completing Internship - Problem Solving Test 
 
 ## Output Screenshots
-![A000124 of Sloane’s OEIS](https://cdn.discordapp.com/attachments/1000437373240361102/1128762872034504734/image.png)
-![Dense Ranking](https://cdn.discordapp.com/attachments/1000437373240361102/1128762933950816306/image.png)
-![Balanced Bracket](https://cdn.discordapp.com/attachments/1000437373240361102/1128762973532455104/image.png)
+![A000124 of Sloane’s OEIS](https://cdn.discordapp.com/attachments/756424136179318784/1131933157210476556/image.png)
+![Dense Ranking](https://cdn.discordapp.com/attachments/756424136179318784/1131933424018530344/image.png)
+![Balanced Bracket](https://cdn.discordapp.com/attachments/756424136179318784/1131933636766220298/image.png)
