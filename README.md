@@ -17,8 +17,8 @@
 
 3. Balanced Bracket
   ![Balanced Bracket](https://cdn.discordapp.com/attachments/756424136179318784/1131933636766220298/image.png)
-  - Berapa ukuran kompleksitas kodinganmu?
-    O(n)
+    - Berapa ukuran kompleksitas kodinganmu?
+      O(n)
 
-  - Jelaskan detail kompleksitas codingan Balanced Bracket Anda.
-    dasjkfn
+    - Jelaskan detail kompleksitas codingan Balanced Bracket Anda.
+      dasjkfn
